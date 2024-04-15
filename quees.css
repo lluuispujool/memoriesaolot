@@ -1,0 +1,43 @@
+*{
+    background-color: blanchedalmond;
+}
+
+.General{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20px;
+    line-height: 30.5px;
+}
+
+.títol{
+    text-align: center;
+    text-decoration: bolder;
+}
+
+.monument{
+    display: flex;
+    margin-top: -10px;
+}
+
+#img1{
+    margin: 30px;
+    margin-left: 50px;
+    width: 280px;
+    height: 180px;
+}
+#inici{
+    display: inline-block;
+    width:50px;
+    height: 50px;
+    vertical-align: middle;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/860/860825.png');
+    background-size: cover;
+    background-position: center;
+}
+.expli1{
+    margin-top: 20px;
+    text-align: justify;
+    margin-right: 20px;
+    margin-left: 20px;
+}
